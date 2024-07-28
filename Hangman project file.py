@@ -1,3 +1,4 @@
+# THE HANGMAN GAME
 import random
 
 # Get the words from the hangman_words list
