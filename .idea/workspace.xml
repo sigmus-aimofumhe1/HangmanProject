@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a20cbb-3d2b-4584-94d2-247fc1f2cf69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f7a20cbb-3d2b-4584-94d2-247fc1f2cf69" name="Changes" comment="comit file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hangman project file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman project file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman_words.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Hangman project file.executor": "Debug",
+    "Python.Hangman project file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -69,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722171819689</updated>
     </task>
+    <task id="LOCAL-00001" summary="comit file">
+      <option name="closed" value="true" />
+      <created>1722179401752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722179401752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit file" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit file" />
   </component>
 </project>
