@@ -31,13 +31,13 @@ while not end_of_game:
         if guess == letter:
             display[position] = letter
 
-        if guess not in chosen_word:
-            print(f"You've guessed {guess}; that's not in the chosen word. You lose a life.")
-            lives -= 1
+    if guess not in chosen_word:
+        print(f"You've guessed {guess}; that's not in the chosen word. You lose a life.")
+        lives -= 1
 
-            if lives == 0:
-                end_of_game = True
-                print("Sorry, you lose!")
+        if lives == 0:
+            end_of_game = True
+            print("Sorry, you lose!")
 
         # Join all the elements in the list and turn it into a String.
         print(f"{' '.join(display)}")
