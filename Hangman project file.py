@@ -39,6 +39,7 @@ while not end_of_game:
         if lives == 0:
             end_of_game = True
             print("Sorry, you lose!")
+            print(f"The word is {chosen_word}")
 
         # Join all the elements in the list and turn it into a String.
         print(f"{' '.join(display)}")
@@ -46,7 +47,7 @@ while not end_of_game:
         # Check if user has got all letters.
         if "_" not in display:
             end_of_game = True
-            print("Congratulations, you win!")
+            print(f"Congratulations, you win! You guessed {chosen_word} correctly.")
 
    # Import the stages from hangman_art.py and make this error go away.
    # from hangman_art import stages. This has been done in line 13
